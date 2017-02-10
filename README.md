@@ -1,6 +1,7 @@
 # ArrayGlobe
+![Travis CI](https://travis-ci.org/herlon214/arrayglobe.svg?branch=master)
 
-![](./globelogo.png)
+![Globe Logo](./globelogo.png)
 
 A simple algorithm walk between the array values each time you call `get()`.
 
