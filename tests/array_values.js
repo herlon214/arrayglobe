@@ -15,6 +15,9 @@ describe('Walking through array ["first","second","third"]', () => {
   it('should return "third"', () => {
     assert.equal(myArray.get(), "third")
   })
+  it('should return "first"', () => {
+    assert.equal(myArray.get(), "first")
+  })
 })
 
 
