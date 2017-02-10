@@ -1,5 +1,6 @@
 # ArrayGlobe
 ![Travis CI](https://travis-ci.org/herlon214/arrayglobe.svg?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/herlon214/arrayglobe/badge.svg?branch=master)](https://coveralls.io/github/herlon214/arrayglobe?branch=master)
 
 ![Globe Logo](./globelogo.png)
 
